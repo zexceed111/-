@@ -1,4 +1,4 @@
-class PiTri {
+class PiTriy {
 
     public static void main(String[] args) {
         if(args == null || args.length == 0){
