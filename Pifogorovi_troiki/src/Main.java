@@ -1,9 +1,13 @@
+
 class PiTriy {
 
     public static void main(String[] args) {
+
         if(args == null || args.length == 0){
             System.out.println("Введите количество пифагоровых троек для вывода или введите три числа для проверки.");
+
             return;
+
         }
         if(args.length == 1){ //вывести N троек
             int N = Integer.parseInt(args[0]);
