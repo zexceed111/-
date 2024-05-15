@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ed7bd9d-9990-4667-9f67-17c9b114bf1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../giga/giga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-sprint2-hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonthData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StepTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-list/shopping-list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping-list/src/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/simple telephone directory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/src/AddingСontacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/src/SearchForAContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/src/ViewAListOfAllContacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple telephone directory/src/asdasd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2flSgVmdlpWmWTFvpnvnMSqyfmq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed7bd9d-9990-4667-9f67-17c9b114bf1b" name="Changes" comment="" />
+      <created>1714374284846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714374284846</updated>
+      <workItem from="1714374285830" duration="257000" />
+      <workItem from="1714424397207" duration="2395000" />
+      <workItem from="1714426891831" duration="613000" />
+      <workItem from="1714428247411" duration="520000" />
+      <workItem from="1714639708853" duration="3295000" />
+      <workItem from="1714643118270" duration="34000" />
+      <workItem from="1714654322122" duration="1959000" />
+      <workItem from="1714656319966" duration="9000" />
+      <workItem from="1714661921507" duration="129000" />
+      <workItem from="1714995006901" duration="434000" />
+      <workItem from="1715432678821" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
