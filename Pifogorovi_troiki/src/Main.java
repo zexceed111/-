@@ -1,5 +1,5 @@
 
-class PiTriy {
+class PiTri {
 
     public static void main(String[] args) {
 
